@@ -5,6 +5,5 @@
 - - Java (Learning)
 - Machines
 - - 2x Thinkpad T420 (Archlinux) 
-- - Thinkpad T42 (Debian 12 32 bit)
-- - 2012 Mac Mini (Archlinux)
-- 
+- - Thinkpad T480 (Archlinux)
+
