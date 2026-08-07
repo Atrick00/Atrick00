@@ -1,9 +1,2 @@
-- Hello, I am Atrick
-- Languages
-- - Python
-- - Javascript (Learning)
-- - Java (Learning)
-- Machines
-- - 2x Thinkpad T420 (Archlinux) 
-- - Thinkpad T480 (Archlinux)
-
+- Hello, I am aidan barlow
+- I don't program much, i much perfer cycling
